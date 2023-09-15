@@ -1,0 +1,36 @@
+.ref{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.ref1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.ref3{
+    padding: 10px 40px;
+    background-color: #1171c5be;
+    color: white;
+    border-radius: 4px;
+}
+
+.ref2
+{
+    padding: 10px 40px;
+    background-color: #c52611be;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.back
+{
+    padding: 10px 40px;
+    background-color: #1171c5be;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
